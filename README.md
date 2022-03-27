@@ -1,5 +1,7 @@
 <div align="left">
-<img src="![alura_python_numpy](https://user-images.githubusercontent.com/75622960/160288755-041a4031-58f7-469e-93ec-a67fd99e46c4.PNG)
+<img src="![alura_python_numpy](https://user-images.githubusercontent.com/75622960/160289007-cc717aba-68dd-4ff1-b774-33ad17eb9cf3.PNG)
+" width="180px" />
+</div>
 
 ⚠️ Aprendizado durante o curso: Python para Data Science: introdução à linguagem e Numpy. 
 
