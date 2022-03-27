@@ -1,8 +1,8 @@
 <div align="left">
-<img src="![alura_python_numpy](https://user-images.githubusercontent.com/75622960/160289007-cc717aba-68dd-4ff1-b774-33ad17eb9cf3.PNG width="180px" />
+<img src="![alura_python_numpy](https://user-images.githubusercontent.com/75622960/160289180-158944d2-bfff-4bc4-b67d-3f4af58cefd4.PNG" width="180px" />
 </div>
 
-⚠️ Aprendizado durante o curso: Python para Data Science: introdução à linguagem e Numpy. 
+⚠️ Aprendizado durante o curso: Python para Data Science - introdução à linguagem e Numpy. 
 
 
 💾 Pontos importantes do aprendizado no curso: 
