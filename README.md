@@ -15,6 +15,5 @@
 + Condicionais e laços
 + Conhecendo o NumPy
 
-<div align="left">
-<img src="![pandas_andamento](https://user-images.githubusercontent.com/75622960/175191682-51809541-0dc9-40c6-9242-d7478c6e1d64.PNG)" width="180px"/>
-</div>
+![pandas_andamento](https://user-images.githubusercontent.com/75622960/175191682-51809541-0dc9-40c6-9242-d7478c6e1d64.PNG)
+
