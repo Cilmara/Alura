@@ -17,3 +17,12 @@
 
 ![pandas_andamento](https://user-images.githubusercontent.com/75622960/175191682-51809541-0dc9-40c6-9242-d7478c6e1d64.PNG)
 
+⚠️ Aprendizado durante o curso: Python para Data Science - funções, pacotes e pandas. 
+
+
+💾 Pontos importantes do aprendizado no curso: 
+
++ Lista estáticas: Tuplas
++ Mapeando dados: Dicionários
++ Organização do código: Funções e pacotes
++ A biblioteca dos cientistas: Pandas
